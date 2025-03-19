@@ -19,6 +19,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: JMS2waySSL
+  gitServerName: SIQA_kvv_ibm
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: main
 services:
 - serviceName: project.siqa_1903_awsint.integrations:AlertsCRTandERT
   packages:
